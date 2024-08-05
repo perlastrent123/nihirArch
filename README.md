@@ -1,4 +1,4 @@
-###Nanahira hyprland theme!
+### Nanahira hyprland theme!
 
 <hr>
 
