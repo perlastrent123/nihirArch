@@ -5,8 +5,7 @@
 ## Packages used and stuff
 [File](https://github.com/perlastrent123/nihirArch/blob/main/nihiraLinux)
 
-<hr>
-
+## Preview
 ![Preview!](https://github.com/perlastrent123/nihirArch/blob/main/Preview/yep.png)
 
 <hr>
