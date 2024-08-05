@@ -11,6 +11,6 @@
 <hr>
 
 ### Sources
-[confetto]http://nanahira.jp/
-[wallpaper1]https://x.com/yuzukikino/status/1794338127529775320/photo/2
-[wallpaper2]https://x.com/yuzukikino/status/1794338127529775320
+[confetto](http://nanahira.jp/)
+[wallpaper1](https://x.com/yuzukikino/status/1794338127529775320/photo/2)
+[wallpaper2](https://x.com/yuzukikino/status/1794338127529775320)
