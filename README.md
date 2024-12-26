@@ -3,8 +3,8 @@
 <hr>
 
 ## Packages used and stuff
-for x in $(cat package_list.txt); do pacman -S $x; done
-[File](https://github.com/perlastrent123/nihirArch/blob/main/nihiraLinux)
+for x in $(cat pacman_packages.txt); do pacman -S $x;
+[Pacman Files](https://github.com/perlastrent123/nihirArch/blob/main/nihiraLinux)
 
 ## Preview
 ![Preview!](https://github.com/perlastrent123/nihirArch/blob/main/Preview/yep.png)
