@@ -8,7 +8,7 @@ for x in $(cat pacman_packages.txt); do pacman -S $x;
 #### [AUR packages](https://github.com/perlastrent123/nihirArch/blob/main/aur_packages.txt)
 
 ## Preview
-![Preview!](https://github.com/perlastrent123/nihirArch/blob/main/Preview/yep.png)
+![Preview!](https://github.com/perlastrent123/nihirArch/blob/main/Preview/NewPreview.png)
 
 <hr>
 
