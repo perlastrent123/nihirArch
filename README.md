@@ -4,8 +4,8 @@
 
 ## Packages used and stuff
 for x in $(cat pacman_packages.txt); do pacman -S $x;
-[pacman packages](https://github.com/perlastrent123/nihirArch/blob/main/pacman_packages.txt)
-[AUR packages](https://github.com/perlastrent123/nihirArch/blob/main/aur_packages.txt)
+####[pacman packages](https://github.com/perlastrent123/nihirArch/blob/main/pacman_packages.txt)
+####[AUR packages](https://github.com/perlastrent123/nihirArch/blob/main/aur_packages.txt)
 
 ## Preview
 ![Preview!](https://github.com/perlastrent123/nihirArch/blob/main/Preview/yep.png)
