@@ -3,6 +3,7 @@
 <hr>
 
 ## Packages used and stuff
+for x in $(cat package_list.txt); do pacman -S $x; done
 [File](https://github.com/perlastrent123/nihirArch/blob/main/nihiraLinux)
 
 ## Preview
